@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Maxfield](https://github.com/itepifanio)
+- Place: Delhi, India
+- Bio: 3D Designer,Animator,C,C++,Game developer
+- Github: [GlitchMaxfield](https://github.com/GlitchMaxfield)
